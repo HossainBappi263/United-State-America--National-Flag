@@ -1,0 +1,320 @@
+*{  
+    margin: 0; padding: 0;
+
+}
+.body{
+    width: 400px;
+    height: 234px;
+    background-color: rgb(235, 10, 10);
+    margin: 0 auto;
+    position: relative;
+}
+.red{
+  width: 400px;
+    height: 18px;
+    background-color: white;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+.redone{
+  width: 400px;
+    height: 18px;
+    background-color: white;
+    top: 27%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    
+}
+    .redtwo{
+     width: 400px;
+    height: 18px;
+    background-color: white;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+
+
+    }
+     .redthree{
+     width: 400px;
+    height: 18px;
+    background-color: white;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+
+}
+ .redfour{
+     width: 400px;
+    height: 18px;
+    background-color: white;
+    top: 72%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;}
+    .redfive{
+     width: 400px;
+    height: 18px;
+    background-color: white;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+ }
+ .starbody{
+width: 135px;
+    height: 135px;
+    background-color: rgb(7, 7, 117);
+    top: 17%;
+    left: 17%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+ }
+ .s1{
+       width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(310%, -233%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+ }
+ .s2{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(194%, -117%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s3{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(284%, -24%);;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s4{
+   width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(76%, -225%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s5{
+     width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(68%, -16%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s6{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 67%;
+    left: 59%;
+    position: absolute;
+    transform: translate(86%, -86%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    
+}
+.s7{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 44%;
+    left: 32%;
+    position: absolute;
+    transform: translate(130%, -61%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s8{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 32%;
+    left: 38%;
+    position: absolute;
+    transform: translate(-50%, -61%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s9{
+   width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 91%;
+    left: 93%;
+    position: absolute;
+    transform: translate(-110%, -201%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s10{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 70%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}   
+.s11{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 70%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s12{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 56%;
+    left: 32%;
+    position: absolute;
+    transform: translate(-26%, -50%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)
+    
+}
+.s13{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 43%;
+    left: 19%;
+    position: absolute;
+    transform: translate(-26%, -50%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)
+}
+.s14{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 31%;
+    left: 7%;
+    position: absolute;
+    transform: translate(-26%, -50%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)
+}
+.s15{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 83%;
+    left: 59%;
+    position: absolute;
+    transform: translate(-26%, -50%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)
+}
+.s16{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 67%;
+    left: 18%;    
+    position: absolute;
+    transform: translate(-26%, -50%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)
+}
+.s17{
+   width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 52%;
+    left: 6%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s18{
+     width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 77%;
+    left: 34%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s19{
+     width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 73%;
+    left: 7%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s20{
+      width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 88%;
+    left: 18%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.s21
+{   width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 89%;
+    left: 45%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    }
+    .s22 {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 88%;
+    left: 87%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    }
+    .s23{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 90%;
+    left: 71%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    }
+    .s24{   
+        width: 15px;
+    height: 15px;
+    background-color: white;
+    top: 87%;
+    left: 7%;
+    position: absolute;
+    transform: translate(-35%, -20%);
+     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    }
